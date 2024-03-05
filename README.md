@@ -1,6 +1,6 @@
-# Welcome to RedisDesk Issue Tracker
+# Welcome to [RedisDesk](https://www.redisdesk.com) Issue Tracker
 
-Thank you for choosing RedisDesk! We aim to provide a seamless and efficient Redis desktop client experience. This GitHub repository is established for you, our valued users, to submit issues or suggest enhancements directly, ensuring we continually improve and tailor RedisDesk to meet your needs.
+Thank you for choosing [RedisDesk](https://www.redisdesk.com)! We aim to provide a seamless and efficient Redis desktop client experience. This GitHub repository is established for you, our valued users, to submit issues or suggest enhancements directly, ensuring we continually improve and tailor RedisDesk to meet your needs.
 
 ## How to Submit an Issue
 
@@ -27,7 +27,7 @@ To help us address your concerns effectively, please follow these guidelines whe
 
 ## Direct Support
 
-For direct support or specific account-related questions, feel free to reach out to us at [support@redisdesk.com](support@redisdesk.com).
+For direct support or specific account-related questions, feel free to reach out to us using [Contact Form](https://www.redisdesk.com/contact).
 
 ## Stay Connected
 
