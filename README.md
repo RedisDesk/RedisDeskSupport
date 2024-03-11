@@ -1,4 +1,5 @@
 # Welcome to [RedisDesk](https://www.redisdesk.com) Issue Tracker
+<a href="https://www.redisdesk.com" target="_blank"><img src='https://www.redisdesk.com/images/logo.png' width='400'></a>
 
 Thank you for choosing [RedisDesk](https://www.redisdesk.com)! We aim to provide a seamless and efficient Redis desktop client experience. This GitHub repository is established for you, our valued users, to submit issues or suggest enhancements directly, ensuring we continually improve and tailor RedisDesk to meet your needs.
 ## Download
