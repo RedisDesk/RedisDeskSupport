@@ -1,6 +1,9 @@
 # Welcome to [RedisDesk](https://www.redisdesk.com) Issue Tracker
 
 Thank you for choosing [RedisDesk](https://www.redisdesk.com)! We aim to provide a seamless and efficient Redis desktop client experience. This GitHub repository is established for you, our valued users, to submit issues or suggest enhancements directly, ensuring we continually improve and tailor RedisDesk to meet your needs.
+## Download
+
+[![mas](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg)](https://apps.apple.com/app/apple-store/id6477256256?pt=126853487&ct=GH&mt=8)
 
 ## How to Submit an Issue
 
